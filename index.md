@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+![TECH](https://user-images.githubusercontent.com/73353246/144550346-3a524fe9-8961-429a-83cf-33b242e7220f.gif)
 
-You can use the [editor on GitHub](https://github.com/NakshatraNigam/Tech-Git/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# WELCOME TO TECH-GIT
+Hi ! Tech git is a user-friendly open world place, where you can find solutions to all your questions in 24 hours. We will provide people with the most friendly
+and easy ways to function.
 
-### Markdown
+# EDUTECH
+As the technology is developing so are the ways to express things ,One of the most developed technology is educational technology. Edutech refers to visualize every
+single topic a student wants to understand. By the use of animation or presentation. Some examples of Edutech companies are byjus, Vedantu ,toppr etc. But all of them 
+are not same something other is present in another one.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# PROBLEM
+For owning subscriptions of these websites you need to pay a fixed amount. While a lot of people won't play for such. So to solve the issue of paying such services
+there is a startup which is also a reliance alliance came up. Embibe.
+# EMBIBE
+Embibe is a Edutech organization in which you can find free to operate blogs, videos and solutions. If you have a doubt just go for it and try.
+# HOW TO GET EMBIBE FOR YOU ?
+From Any device : - 
+     
+     ? OPEN WEB BROWSER (SAFARI , GOOGLE CHROME)
+     
+     ? SEARCH FOR https://www.embibe.com/ (EMBIBE.COM)
+     
+     ? SIGN UP AND ENJOY ALL THE SERVICES FOR FREE
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NakshatraNigam/Tech-Git/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Screenshot 2021-12-03 104509](https://user-images.githubusercontent.com/73353246/144549373-51e47cff-271f-4269-9eab-c4bbabb9d891.png)
