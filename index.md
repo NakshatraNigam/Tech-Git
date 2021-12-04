@@ -10,8 +10,8 @@ Tech git is made for solving problems faced by people anywhere , anytime. Just a
 people a service of making custom digitalized visuals (Which will launch soon).
 
 # SERVICES
-Daily tech tips - 
+Daily tech tips - Launching soon..........
 
 [Issue Solving Platform](https://github.com/NakshatraNigam/Daily-tech-tips/issues)
 
-Files and videos - 
+Files and videos -  Launching soon..........
