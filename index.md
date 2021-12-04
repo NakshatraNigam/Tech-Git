@@ -12,6 +12,6 @@ people a service of making custom digitalized visuals (Which will launch soon).
 # SERVICES
 Daily tech tips - 
 
-Issue solving platform - [ HERE ](https://github.com/NakshatraNigam/Daily-tech-tips/issues)
+[Issue Solving Platform](https://github.com/NakshatraNigam/Daily-tech-tips/issues)
 
 Files and videos - 
