@@ -10,7 +10,7 @@ Tech git is made for solving problems faced by people anywhere , anytime. Just a
 people a service of making custom digitalized visuals (Which will launch soon).
 
 # SERVICES
-Daily tech tips - Launching soon..........
+[Daily tech tips](https://nakshatranigam.github.io/Daily-tech-tips/)
 
 [Issue Solving Platform](https://github.com/NakshatraNigam/Daily-tech-tips/issues)
 
