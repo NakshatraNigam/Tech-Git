@@ -11,5 +11,7 @@ people a service of making custom digitalized visuals (Which will launch soon).
 
 # SERVICES
 Daily tech tips - 
+
 Issue solving platform - 
+
 Files and videos - 
